@@ -9,7 +9,7 @@ int speed = 255;
 int speedBalansR = 0;  // Если автомобиль отклоняется влево, уменьшите скорость правого мотора.
 int speedBalansL = 0;  // Если автомобиль отклоняется вправо, уменьшите скорость левого мотора.
 int noStop = 0;
-
+gggggg
 
 typedef struct {
   httpd_req_t *req;
